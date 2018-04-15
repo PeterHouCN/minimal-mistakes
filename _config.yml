@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "zh-CN"
+title                    : "Peter's blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Peter Hou"
+description              : "个人博客，记录生活。"
 url                      : "https://www.gqhou.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Peter"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "普通人。"
+  location         : "Beijing, China"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
